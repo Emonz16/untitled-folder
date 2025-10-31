@@ -1,1 +1,6 @@
-consol.log('hello')
+console.log('hello');
+export { };
+export const greet = () => {
+    return 'Hello, World!';
+};
+
