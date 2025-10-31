@@ -1,4 +1,5 @@
 //js big o notation
+//code 
 const timeout = ms => new Promise(res => setTimeout(res, ms));
 
 
